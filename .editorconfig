@@ -1,0 +1,17 @@
+root = true
+
+[*]
+indent_style = space
+indent_size = 2
+charset = utf-8
+trim_trailing_whitespace = true
+insert_final_newline = true
+end_of_line = lf
+
+[*.md]
+trim_trailing_whitespace = false
+
+# 作者：vortesnail
+# 链接：https://juejin.cn/post/6860129883398668296
+# 来源：稀土掘金
+# 著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
